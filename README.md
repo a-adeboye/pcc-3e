@@ -54,8 +54,7 @@ Through this journey I aim to:
 ---
 
 ## Progress
-# Part 1
-
+### Part 1
 | Chapter | Topic | Status |
 |-------|------|------|
 | 1 | Getting Started | ⏳ |
